@@ -1,0 +1,25 @@
+﻿  main.cpp
+  camera.cpp
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\camera.cpp(12): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  math3d.cpp
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(67): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(108): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(109): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(110): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(113): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(114): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(115): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(118): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(119): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(120): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(123): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(124): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(125): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(154): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(184): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(187): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luis\desktop\utad\geometria proyectiva\p2 transformations_empty\transformations\math3d.cpp(255): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  shapes.cpp
+  Generando código...
+  Transformations.vcxproj -> C:\Users\Luis\Desktop\utad\geometria proyectiva\P2 transformations_empty\Debug\Transformations.exe
